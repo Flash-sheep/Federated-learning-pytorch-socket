@@ -1,0 +1,41 @@
+
+Epoch 0, acc: 42.250000, loss: 2.064674
+
+Epoch 1, acc: 51.790000, loss: 1.515715
+
+Epoch 2, acc: 56.170000, loss: 1.318962
+
+Epoch 3, acc: 58.380000, loss: 1.225456
+
+Epoch 4, acc: 61.270000, loss: 1.133663
+
+Epoch 5, acc: 62.610000, loss: 1.082506
+
+Epoch 6, acc: 64.400000, loss: 1.038409
+
+Epoch 7, acc: 65.680000, loss: 1.002667
+
+Epoch 8, acc: 66.700000, loss: 0.973614
+
+Epoch 9, acc: 67.240000, loss: 0.945710
+
+Epoch 10, acc: 68.450000, loss: 0.925787
+
+Epoch 11, acc: 69.050000, loss: 0.914437
+
+Epoch 12, acc: 69.780000, loss: 0.888352
+
+Epoch 13, acc: 70.340000, loss: 0.870710
+
+Epoch 14, acc: 71.190000, loss: 0.850211
+
+Epoch 15, acc: 71.460000, loss: 0.844194
+
+Epoch 16, acc: 72.090000, loss: 0.826695
+
+Epoch 17, acc: 72.360000, loss: 0.810607
+
+Epoch 18, acc: 72.480000, loss: 0.805550
+
+Epoch 19, acc: 72.840000, loss: 0.802040
+
